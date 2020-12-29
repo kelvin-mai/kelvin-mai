@@ -3,7 +3,7 @@
 Self taught Full Stack Developer, aspiring functional programming polyglot, and full time nerd.
 
 ![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=kelvin-mai&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-mai&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-mai&theme=nightowl&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Follow Me
 
